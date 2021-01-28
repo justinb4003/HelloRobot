@@ -23,6 +23,7 @@ public class Robot extends TimedRobot {
   public static OI m_oi;
 
   Command m_autonomousCommand;
+  double rando = 2.0;
   SendableChooser<Command> m_chooser = new SendableChooser<>();
 
   /**
