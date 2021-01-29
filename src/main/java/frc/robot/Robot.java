@@ -41,14 +41,9 @@ public class Robot extends TimedRobot {
     m_chooser.setDefaultOption("Default Auto", new ExampleCommand());
     // chooser.addOption("My Auto", new MyAutoCommand());
     SmartDashboard.putData("Auto mode", m_chooser);
-<<<<<<< HEAD
-    
     System.out.println("Josh did this.");
-=======
-
     doJustin();
     doJustin();
->>>>>>> 113cfd20ea32febaec7d7558cd03e8208d62d3b4
   }
 
   /**
