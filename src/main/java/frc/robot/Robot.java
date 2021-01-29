@@ -43,6 +43,7 @@ public class Robot extends TimedRobot {
     SmartDashboard.putData("Auto mode", m_chooser);
  
     System.out.println("David was here!");
+    System.out.println("Josh did this.");
     doJustin();
     doJustin();
   }
