@@ -43,6 +43,7 @@ public class Robot extends TimedRobot {
     SmartDashboard.putData("Auto mode", m_chooser);
 
     doJustin();
+    doJustin();
   }
 
   /**
