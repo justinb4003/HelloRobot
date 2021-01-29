@@ -44,6 +44,7 @@ public class Robot extends TimedRobot {
  
     System.out.println("David was here!");
     System.out.println("Josh did this.");
+    System.out.println("Lukas wrote this line and suffered to git(hehe) it here");
     doJustin();
     doJustin();
   }
